@@ -1,0 +1,283 @@
+{
+  "title": "Epilepsy Priority Setting Partnership",
+  "description": "Surveys responses from individuals in the Epilepsy community identifying questions that should be prioritized for epilepsy research.  ",
+  "dates": [
+    {
+      "date": "2019-10-01 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2021-03-31 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI"
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Survey Responses"
+      }
+    },
+    {
+      "information": {
+        "value": "Respondant Demographics"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "registered",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV"
+      ],
+      "size": 2.56,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Canadian epilepsy priority-setting partnership: Toward a new national research agenda ",
+      "publicationVenue": "Epilepsy & Behavior",
+      "authors": [
+        {
+          "fullName": "",
+          "firstName": "Amaya",
+          "middleInitial": "",
+          "lastName": "Singh",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Rebecca",
+          "middleInitial": "",
+          "lastName": "Woelfle",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Rachel",
+          "middleInitial": "",
+          "lastName": "Chepesiuk",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Carla",
+          "middleInitial": "",
+          "lastName": "Southward",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Jordan",
+          "middleInitial": "",
+          "lastName": "Antflick",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Katherine",
+          "middleInitial": "",
+          "lastName": "Cowan",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Kathryn",
+          "middleInitial": "",
+          "lastName": "Hum",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Marcus",
+          "middleInitial": "",
+          "lastName": "Ng",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Jorge",
+          "middleInitial": "G",
+          "lastName": "Burneo",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Ana",
+          "middleInitial": "",
+          "lastName": "Suller Marti",
+          "affiliations": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2022-03-31 00:00:00",
+          "type": {
+            "value": "date of publication"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://www.sciencedirect.com/science/article/pii/S1525505022001226",
+        "identifierSource": "https://doi.org/10.1016/j.yebeh.2022.108673"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "CANADA",
+      "description": ""
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI"
+        },
+        {
+          "name": "EpLink",
+          "abbreviation": "EPL"
+        },
+        {
+          "name": "Government of Ontario",
+          "abbreviation": ""
+        },
+        {
+          "name": "James Lind Alliance",
+          "abbreviation": "JLA"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Epilepsy"
+    },
+    {
+      "value": "James Lind Alliance"
+    },
+    {
+      "value": "Survey"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "473"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "CONP"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
